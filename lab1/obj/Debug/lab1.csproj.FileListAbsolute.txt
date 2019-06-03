@@ -1,0 +1,10 @@
+D:\study\y4\shifr\lab1\lab1\bin\Debug\lab1.exe.config
+D:\study\y4\shifr\lab1\lab1\bin\Debug\lab1.exe
+D:\study\y4\shifr\lab1\lab1\bin\Debug\lab1.pdb
+D:\study\y4\shifr\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\study\y4\shifr\lab1\lab1\obj\Debug\lab1.Form1.resources
+D:\study\y4\shifr\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\study\y4\shifr\lab1\lab1\obj\Debug\lab1.Vigenere.resources
+D:\study\y4\shifr\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
+D:\study\y4\shifr\lab1\lab1\obj\Debug\lab1.exe
+D:\study\y4\shifr\lab1\lab1\obj\Debug\lab1.pdb
